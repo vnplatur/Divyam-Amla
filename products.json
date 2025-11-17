@@ -1,0 +1,42 @@
+[
+   { 
+    "id": 1, 
+    "name": "Divyam Amla Candy", 
+    "manager": "Maharashtra", 
+    "desc": "Sweetened naturally with jaggery, retains essential minerals like iron, magnesium, and potassium.", 
+    "images": "./images/logo.jpg", 
+    "price": 120 
+  },
+    { 
+      "id": 2, 
+      "name": "Divyam Amla Juice", 
+      "manager": "Maharashtra", 
+      "desc": "Amla juice is rich in vitamin C and antioxidants, boosting immunity and promoting healthy skin.", 
+      "images": "./images/logo.jpg", 
+      "price": 150 
+    },
+    { 
+      "id": 3, 
+      "name": "Divyam Amla Pickle", 
+      "manager": "Maharashtra", 
+      "desc": "Amla pickle is a tangy and spicy condiment that enhances the flavor of meals while providing health benefits.", 
+      "images": "./images/logo.jpg", 
+      "price": 100 
+    } ,
+    { 
+      "id": 4, 
+      "name": "Divyam Amla Murabba", 
+      "manager": "Maharashtra", 
+      "desc": "Amla murabba is a sweet preserve made from amla, rich in vitamin C and antioxidants, promoting overall health.", 
+      "images": "./images/logo.jpg", 
+      "price": 130 
+    },
+    { 
+      "id": 5, 
+      "name": "Divyam Amla Candy Sugar Free", 
+      "manager": "Maharashtra", 
+      "desc": "Sugar-free amla candy offers the health benefits of amla without added sugars, making it suitable for diabetics.", 
+      "images": "./images/logo.jpg", 
+      "price": 140 
+    }
+]
